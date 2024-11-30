@@ -17,5 +17,3 @@ PRIMRARY KEY: constraint that uniquely identifies each row in a table.
 
 -- B-Trees and Hash is used for indexing
 -- Hash Function(MD5, SHA1, SHA256) These are hashing alogorithms
-
--- ...to be continued
